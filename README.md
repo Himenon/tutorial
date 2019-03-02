@@ -4,5 +4,5 @@
 
 ## 個人開発でPull Requestをやっている
 
-タイピングミス(tyopoe)
+タイピングミス(typo)
 typo
